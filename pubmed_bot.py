@@ -17,7 +17,7 @@ def run_flask():
     app_web.run(host='0.0.0.0', port=int(os.environ.get('PORT', 10000)))
 
 # --- CẤU HÌNH BOT CỦA BẠN ---
-TELEGRAM_TOKEN = "8643595444:AAFptKJZp045zzSgf5xMCtf2WFyP0DJOKu0"
+TELEGRAM_TOKEN = "8699849501:AAEx-GG2lFJtT7t7o4je-eOHSGbYzR1vdhM"
 PUBMED_API_KEY = "01115b953b66629df050b91c4d77233f6008"
 seen_papers = {}
 
